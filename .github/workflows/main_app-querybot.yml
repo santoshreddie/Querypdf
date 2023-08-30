@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'app-querybot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A6E0E8894229491991DC7CEFB8B7A0EE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4826FC9498F547FBBF4D640DFABA7718 }}
