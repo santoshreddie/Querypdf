@@ -1,0 +1,19 @@
+{
+
+"OPENAI_API_TYPE" : "Azure",
+
+"OPENAI_API_VERSION": "2023-05-15",
+
+"OPENAI_API_BASE" : "https://codex008.openai.azure.com/",
+
+"OPENAI_API_KEY" : "039b926a79ba4ccaae2fa6894ce7fb23",
+
+"AZURE_COGNITIVE_SEARCH_SERVICE_NAME" : "worksapce104",
+
+"AZURE_COGNITIVE_SEARCH_INDEX_NAME" :  "azureblob-index1",
+
+"AZURE_COGNITIVE_SEARCH_ADDRESS" : "https://worksapce104.search.windows.net",
+
+"AZURE_COGNITIVE_SEARCH_API_KEY"  :  "hFE1qIzSnkkMkPGALp4L1wl2obwBGBpgMjQM3CBDmWAzSeBYZD9v"
+
+}
